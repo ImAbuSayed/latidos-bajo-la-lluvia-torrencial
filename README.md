@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Latidos bajo la lluvia torrencial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
+| **Get License** | [Get License For Latidos bajo la lluvia torrencial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1ad1319d2df143be42d9314843aa9d2ad0e867e72ef853315b75a79552ac13a5` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

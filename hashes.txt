@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos bajo la lluvia torrencial
+
+This log tracks the cryptographic history and versioning for the song **Latidos bajo la lluvia torrencial** (latidos-bajo-la-lluvia-torrencial).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:48:04.295637 | `v1` | `1ad1319d2df143be42d9314843aa9d2ad0e867e72ef853315b75a79552ac13a5` | `9e86ed2e516d9c1d20eab2551aa6443233221c99573b15765705bbd5b6bd33a5` | `2026-06-14_latidos-bajo-la-lluvia-torrencial-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
