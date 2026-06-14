@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latidos bajo la lluvia torrencial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
+| **Get License** | [Official Music Licensing for Latidos bajo la lluvia torrencial](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-bajo-la-lluvia-torrencial/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la noche está pidiendo que te acerques
+> Bajo la lluvia de Madrid, no hay quién nos frene
+> Siento tu pulso cuando el bajo fuerte suena
+> Tú eres la musa que me corre por las venas
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
